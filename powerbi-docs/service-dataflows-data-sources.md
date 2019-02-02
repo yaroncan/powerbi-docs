@@ -65,6 +65,7 @@ The **File** category includes the following available data connections for data
 
 The **Database** category includes the following available data connections for dataflows:
 
+* Amazon Redshift
 * IBM DB2 Database
 * MySQL Database
 * Oracle Database
@@ -150,7 +151,6 @@ And then your script connects to the data source you specified.
 
 The following list shows which connectors you can currently use by copying and pasting the M query into a blank query:
 
-* Amazon Redshift
 * SAP Business Warehouse 
 * SAP HANA
 * Analysis Services
